@@ -1,7 +1,7 @@
 package be.better.client.tg.message.handler;
 
 import be.better.client.tg.cmd.ChatCommand;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
 import org.telegram.telegrambots.meta.api.objects.Message;
 

@@ -1,10 +1,10 @@
 package be.better.client.tg.message;
 
-import bepicky.bot.core.cmd.ChatCommand;
-import bepicky.bot.core.cmd.ChatCommandParser;
-import bepicky.bot.core.cmd.CommandTranslator;
-import bepicky.bot.core.message.handler.IDefaultMessageHandler;
-import bepicky.bot.core.message.handler.MessageHandler;
+import be.better.client.tg.cmd.ChatCommand;
+import be.better.client.tg.cmd.ChatCommandParser;
+import be.better.client.tg.cmd.CommandTranslator;
+import be.better.client.tg.message.handler.IDefaultMessageHandler;
+import be.better.client.tg.message.handler.MessageHandler;
 import com.google.common.collect.ImmutableMap;
 import lombok.extern.slf4j.Slf4j;
 import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
